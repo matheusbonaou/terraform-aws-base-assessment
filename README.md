@@ -2,14 +2,6 @@
 
 Description: Base AWS Infrastructure for technical assessment of Matheus Bona OÜ
 
--> AWS Organizations com 2 contas (Dev e Prod) - ok
--> VPC em us-east com 2 subnets públicas e 2 privadas - ok
--> Criar RDS zone na subnet privada
--> Criar Cloud front
--> Criar API Gateway
--> Criar Lambda que retorna Hello World
--> Configurar conector entre lambda e RDS
-
 # How to use ?
 
 ## 1 - Init
