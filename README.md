@@ -2,6 +2,8 @@
 
 Description: Base AWS Infrastructure for technical assessment of Matheus Bona OÜ
 
+![alt text](aws.png "AWS Infrastructure proposal")
+
 # How to use ?
 
 ## 1 - Init
